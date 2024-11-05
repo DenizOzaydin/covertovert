@@ -1,7 +1,2 @@
-Deniz Özaydın  2521839
-
-Celal Cankut Aldemir  2330512
-
-Group ID: 37
-
-GitHub Repository: https://github.com/DenizOzaydin/covertovert
+# Coding
+You can develop your code in sender and receiver folders. Be careful entire folder is mounted to the `/app` folder in both containers.
