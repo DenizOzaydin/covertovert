@@ -8,6 +8,13 @@ Basic ICMP Documentation
 
 Please add your names and group ID here by editing `index.rst` in the docs folder.
 
+Deniz Özaydın  2521839
+
+Celal Cankut Aldemir  2330512
+
+Group ID: 37
+
+GitHub Repository: **
 
 .. toctree::
    :maxdepth: 2
