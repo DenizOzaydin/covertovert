@@ -14,7 +14,7 @@ Celal Cankut Aldemir  2330512
 
 Group ID: 37
 
-GitHub Repository: **
+GitHub Repository: https://github.com/DenizOzaydin/covertovert
 
 .. toctree::
    :maxdepth: 2
